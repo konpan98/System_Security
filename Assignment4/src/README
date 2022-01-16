@@ -1,0 +1,6 @@
+the key derivation and the encryption functions work fine ( the d  and e values are a bit large)
+
+i tried to make the decryption function but i encountered some problems so i left it unimplemented 
+
+gcc (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0
+
